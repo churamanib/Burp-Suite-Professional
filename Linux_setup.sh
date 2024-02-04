@@ -14,7 +14,7 @@ ${WH}66        66 666 66  66        66  66 666     6666666666   66            66
 ${GR} 66       66     66   66      66   66    66   66       66  66            66  66       66  66     6 66     66       ${NL}
 ${GR}  666666  66     66    6666666     66     66 66         66 66            66 66         66 66       666 66666666 ${NL}
 "
-echo "  hello friend i am Churamani public name (Amar)
+echo "  hello friend this is Churamani budhathoki ethical hacker (my nikname and public name (Amar))
 "
 
 # Check if Java JDK 19 is installed
